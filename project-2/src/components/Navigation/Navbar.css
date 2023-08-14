@@ -1,0 +1,32 @@
+
+nav {
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 44px 20px;
+  height: 72px;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+nav ul li {
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 500;
+}
+
+
+nav ul li:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+}
+
+.logo > img {
+    width: 100px;
+}

@@ -1,0 +1,17 @@
+.contact-header {
+  /* background-color: red; */
+  max-width: 1080px;
+  margin: 80px auto;
+}
+
+.contact-header > h1 {
+    font-size: 48px;
+    /* font-weight: 800; */
+}
+
+.contact-header > p {
+    font-size: 18px;
+    /* font-weight: 800; */
+    color: #5A5959;
+}
+
